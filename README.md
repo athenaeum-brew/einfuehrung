@@ -1,4 +1,4 @@
-### **Day 1: Introduction to Java Programming**
+### **Day 1: Introduction to Programming**
 1. **Introduction to Programming Concepts**
 2. **Setting Up the Java Environment**
 3. **Exercise: Writing and Running "Hello World" in Java**
