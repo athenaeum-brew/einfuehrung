@@ -1,4 +1,4 @@
-### **Day 1: Introduction to Programming**
+### **Day 1: Introduction to Programming [![](/images/external-link-svgrepo-com.svg)](https://moodle.heilbronn.dhbw.de/course/view.php?id=15064)**
 1. **Introduction to Programming Concepts**
 2. **Setting Up the Java Environment**
 3. **Exercise: Writing and Running "Hello World" in Java**
