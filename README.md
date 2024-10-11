@@ -5,33 +5,6 @@
 
 ---
 
-<pre  class="mermaid">
-pie
-    title Language Market Share (October 2024)
-    "Python" : 15
-    "C++" : 10
-    "C" : 9
-    "Java" : 8
-    "C#" : 7
-    "JavaScript" : 5
-    "Go" : 3
-    "Visual Basic" : 2
-    "SQL" : 2
-
-</pre>
-
-
-Sources:
-
-1. [TIOBE Index October 2024](https://www.techrepublic.com/article/tiobe-index-news-october-2024-rust-climbs-the-ranks/)
-
-2. [PYPL Index 2024](https://www.orientsoftware.com/blog/most-popular-programming-languages/)
-
-Google search for ["Most popular programming languages in 2024"](https://www.google.com/search?q=Most+popular+programming+languages+in+20240)
-
-
----
-
 ### **Day 2: Java Syntax and Control Flow**
 4. **Basic Syntax and Structure**
 5. **Control Flow: Conditional Statements**
