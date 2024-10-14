@@ -223,4 +223,4 @@ I asked ChatGPT to explain me why ChatGPT is good:
 
 # Einführung in die Programmierung
 
-Next: [A comparison between Python, Java and Javascript](http://localhost:3030/slides/?../einfuehrung/00.md#1)
+Next: [A comparison between Python, Java and Javascript](/slides/?../einfuehrung/00.md#1)

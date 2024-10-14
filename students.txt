@@ -1,0 +1,33 @@
+Theocharis 1/2 C++
+Mikail 1/2 C++
+Sinan 2 C++
+Niklas 1/2 Go_Http
+Raphael 1 c_c#
+Nils O
+Justus 2/3 Python_Java_Android
+Matthias 0/1 JavaJava_Android
+Timo 2/3 Android Javascript
+Daniel 2/3 PhP_C++Kotloin
+Luis1 2 c#_c++_python
+Kim Viviem 0 python
+Luis2 2 c#_java_python
+Marios 1 Python leetcode
+Niklas 1 React Native
+Joseph 0/1 php_java
+Christine 1 javascript_react_go
+Celine 0
+Tina 0 
+Elias 1/2 java
+Sören 1/2 java_javascript
+Tim 1 java 
+Adi 1 python
+Willi 0/1 python
+Vincent 1 c#
+Thomas 1 python SQL
+Oliver 0/1 logo
+Yannick 2 java
+Diethrich 2 web_php:_javascript_java_python
+Kevin 1 go_sql_html_css_python
+
+
+
