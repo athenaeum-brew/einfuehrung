@@ -57,24 +57,69 @@ Mid-term mini-project before sessions I and II
 
 # Einführung in die Programmierung
 
-* Introduction to Programming Concepts
+*What is the most important thing in Software Engineering ?*
+
+--
+
+**People!**
+
+![people](/images/a-emoji-set-background-of-people-of-different-cultures-isolated-on-white-2H853E0.jpg)
+
+---
+
+# Einführung in die Programmierung
+
+* Introduction to Programming
+--
+
 * Setting Up the Java Environment
+--
+
 * Basic Syntax and Structure
+--
+
 * Control Flow: Conditional Statements, Loops and Iteration
-* Introduction to OOP and Classes
+--
+
+* OOP and Classes
+--
+
     * Encapsulation and Access Modifiers
+--
     * Constructors and Object Initialization
+--
     * Inheritance and Polymorphism
+--
     * Interfaces and Abstract Classes
-* Java Collections
+--
+
+* Java API: e.g. Collections
+--
+
 * Exceptions and Exception Handling
+--
+
 * Logging and Debugging Techniques
+--
+
 * Unit Testing with JUnit
+--
+
 * Record Classes in Java
+--
+
 * Reflection API, Annotations and Metadata
-* Synchronization and Thread Safety
+--
+
+* Concurrent Programming, Threads
+--
+
 * Memory Management and Garbage Collection
+--
+
 * Generics and Type-Safe Programming
+--
+
 * Functional Programming in Java (Lambdas and Streams)
 
 
