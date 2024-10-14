@@ -138,7 +138,7 @@ Mid-term mini-project before sessions I and II
 
 ## Presentations
 
-Please present yourselve and value your coding experience from 0 to 3
+Please present yourself and value your coding experience from 0 to 3
 
 * Level 0: Absolute Beginner
     * No prior coding experience. 
